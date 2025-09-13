@@ -46,7 +46,7 @@ admin.site.register(cardb,cardb_admin)
 
 
 ## OUTPUT
-[text](../Pictures/Screenshots)
+![alt text](<Screenshot (1).png>)
 
 ## RESULT
 Thus the program for creating car inventory database database using ORM hass been executed successfully
